@@ -16,11 +16,13 @@
 - <img src="https://media.githubusercontent.com/media/pihme/helferlein/main/docs/mascot.png" height="18" alt=""> **[Helferlein](https://pihme.github.io/helferlein/)** · [repository](https://github.com/pihme/helferlein)  
   An animated Three.js 3D avatar that a web page can summon: it floats in, shows when it is waiting or working, and gets a random new look on every applied change.
 
-More projects:
+**My Tool Cabinet** holds software I pick, adapt or build for my own use, so I keep control over my data.
 
+- <img src="https://pihme.github.io/my-data-my-tools-my-rules/assets/logo-mark.svg" width="18" height="18" alt=""> **[My Data, My Tools, My Rules](https://pihme.github.io/my-data-my-tools-my-rules/)** · [repository](https://github.com/pihme/my-data-my-tools-my-rules)  
+  A catalogue of off-the-shelf options: a wiki-style directory of open-source projects for digital self-determination.
+- **[bespoke-freemind-ce](https://github.com/pihme/bespoke-freemind-ce)**  
+  A tailored build of FreeMind CE, the classic mind-mapping software.
 - <img src="https://pihme.github.io/ragite/favicon.svg" width="18" height="18" alt=""> **[RAGite](https://pihme.github.io/ragite/)** · [repository](https://github.com/pihme/ragite)  
-  Embeddable, CPU-friendly retrieval (RAG) as a SQLite extension.
+  A building block for local RAG: embeddable, CPU-friendly retrieval as a SQLite extension.
 - <img src="https://pihme.github.io/ragite-demo/favicon.svg" width="18" height="18" alt=""> **[RAGite demo](https://pihme.github.io/ragite-demo/)** · [repository](https://github.com/pihme/ragite-demo)  
   Search the SQLite docs and Wikipedia in your browser with RAGite and Datasette, offline and in one SQLite file.
-- <img src="https://pihme.github.io/my-data-my-tools-my-rules/assets/logo-mark.svg" width="18" height="18" alt=""> **[My Data, My Tools, My Rules](https://pihme.github.io/my-data-my-tools-my-rules/)** · [repository](https://github.com/pihme/my-data-my-tools-my-rules)  
-  A wiki-style directory of open-source projects for digital self-determination.
