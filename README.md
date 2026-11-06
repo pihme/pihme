@@ -1,7 +1,7 @@
-- <img src="https://pihme.github.io/freigeist/assets/freigeist-mark.svg" width="18" height="18" alt=""> **[Freigeist](https://pihme.github.io/freigeist/)** · [repository](https://github.com/pihme/freigeist)  
-  A running blog, closer to a stream of consciousness: notes on building software in the age of AI, written as I go.
+<img src="https://pihme.github.io/freigeist/assets/freigeist-mark-transparent.svg" width="56" height="56" align="left" alt="Freigeist logo"> **[Freigeist](https://pihme.github.io/freigeist/)** is a running blog, closer to a stream of consciousness: notes on building software in the age of AI, written as I go.
+<br clear="left">
 
-**[Hobelbank](https://github.com/pihme/hobelbank)** is a map of the workshop: how the pieces below fit together around one rule. An agent may do anything inside its world, and everything that controls it lives outside, where it cannot reach.
+**[Hobelbank](https://github.com/pihme/hobelbank)** is the umbrella over the projects below. They share one question: how do you build software in the age of AI? Each project takes on one part of the answer, from the world an agent works in to the guards on its way out.
 
 - <img src="https://pihme.github.io/fregoli/favicon.svg" width="18" height="18" alt=""> **[Fregoli](https://pihme.github.io/fregoli/)** · [repository](https://github.com/pihme/fregoli)  
   A web application an agent can rewrite while it is running: capabilities are Cordis plugins mounted and unmounted in a live Node process.
