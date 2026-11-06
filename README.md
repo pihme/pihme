@@ -25,3 +25,12 @@ A second, smaller puzzle stands on its own, apart from the set above: two pieces
   Search the SQLite docs and Wikipedia in your browser with RAGite and Datasette, offline and in one SQLite file.
 
 **How they fit:** RAGite demo is a small Datasette app built on RAGite: it loads the released extension and uses only RAGite's public interface. Both websites have a Jigsaw page for this pair, for example [RAGite’s](https://pihme.github.io/ragite/jigsaw/).
+
+Apart from the puzzles above, two more projects share a mark of their own.
+
+- <img src="https://pihme.github.io/freigeist/assets/freigeist-mark.svg" width="18" height="18" alt=""> **[Freigeist](https://pihme.github.io/freigeist/)** · [repository](https://github.com/pihme/freigeist)  
+  A blog about steering AI in uncharted waters.
+- <img src="https://pihme.github.io/my-data-my-tools-my-rules/assets/logo-mark.svg" width="18" height="18" alt=""> **[My Data, My Tools, My Rules](https://pihme.github.io/my-data-my-tools-my-rules/)** · [repository](https://github.com/pihme/my-data-my-tools-my-rules)  
+  A wiki-style directory of open-source projects for digital self-determination.
+
+**How they fit:** Freigeist's site points readers to My Data, My Tools, My Rules; the two share a mark. The directory is a companion for the blog. Nothing else is built together yet.
